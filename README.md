@@ -63,82 +63,28 @@ My name is Mahammad Aafil and I am a Full Stack Developer. I'm living in London,
 
 ## Projects:
 + My portfolio:
-https://dan-porfolio.vercel.app/
+https://aafils-portfolio.vercel.app/
 
-+ AI Quiz Generator Platform:
-https://quiz.big-shift.ca
++ Book Finder App:
+https://book-finder-lovat.vercel.app/
 
-+ Web/App (Android&iOS) for our customer:
-https://www.poshsmarthome.com
++ To-Do App:
+https://to-do-app-woad-eta.vercel.app/
 
-+ An AI app to examine skin diseases (a gift for Vietnamese doctors):
- https://ai-dermassist.onrender.com/
-+ An app to track IRCC processing times:
-  https://trackircc.vercel.app/
++ Sports Store Web App:
+https://sports-store-jet.vercel.app/
 
-+ An AI language learning web app using React:
-https://ai-language-learning.vercel.app/
++ Movie Rating App:
+https://film-quest-alpha.vercel.app/
 
-+ A car racing game using Matter.js and React Native:
-https://play.google.com/store/apps/details?id=com.dancargame.test
++ A Dragon rush (flappy bird clone) game developed using Matter.js and React Native:
+https://github.com/MAafil/Dragon-Rush-React-Native-Game-
 
-+ A company website using React (This is used for my Small Business IT Strategies project):
-https://medwebdesigns.vercel.app/
++ A dinosaur game developed using Matter.js and React Native:
+https://github.com/MAafil/Dinosaur-Game
 
-+ A shopping cart using React and Firebase:
-https://js4project.vercel.app/
++ UI Project using d3.js:
+https://ui-project-theta.vercel.app/
 
-+ A web social app using React and Firebase:
-https://chemgio.vercel.app/
-
-+ A shopping cart using Angular and Firebase:
-https://finalproject-info-5139-sofk.vercel.app/
-
-+ A web Todo app using React and Firebase:
-https://todo-app-lab6.vercel.app/
-
-+ A web app using JavaScript and HTML/CSS:
-https://final-project-front-end-js-1st-term.vercel.app/
-
-+ A web app using React.js and OpenAI API to generate images:
-https://ai-image-generator-v2.vercel.app/
-
-+ A web app using React.js and OpenAI API to generate images:
-https://taoanh-ai.vercel.app/
-
-+ A web app using Node.js to manage a customer database:
-https://project2-js2.vercel.app/
-
-+ A web application that allows you to retrieve MLB game information for any given date in the past three years.
-https://project1-js-2.vercel.app/
-
-+ A web app to enhance old or not-so-sharp images, bringing them back to life with sharper details and better colours.
-https://khoiphucanhcu.vercel.app/
-
-+ A web app create custom-designed rooms based on your original images.
-https://thiet-ke-phong-ai.vercel.app/
-...
-
-## Videos:
-
-+ Final Exam (Mobile Development):
-https://youtu.be/hKKQ-pQhFok
-
-+ Final Project (Mobile Development):
-https://www.youtube.com/watch?v=zmqLYQFYttI&t=6s
-Note: This is my beta version only. You can try with updated version: (https://play.google.com/store/apps/details?id=com.dancargame.test)
-
-+ Midterm (Mobile Development):
-https://www.youtube.com/watch?v=d3RBBUIs21Y
-
-+ Lab 4 (Mobile Development):
-https://youtube.com/shorts/Ad00xZNlqHw
-
-+ Lab 3 (Mobile Development):
-https://www.youtube.com/shorts/wX-HP6lDsVw
-
-+ Lab 2 (Mobile Development):
-https://www.youtube.com/shorts/VCPhnCz0_L0
-
-+ Lab 1 (Mobile Development):
-https://www.youtube.com/shorts/L8s7x1REwTY
++ FlavorHarbor (Dynamic Recipe App):
+https://flavor-harbor.vercel.app/
