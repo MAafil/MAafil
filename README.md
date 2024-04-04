@@ -43,10 +43,8 @@ My name is Mahammad Aafil and I am a Full Stack Developer. I'm living in London,
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-GitLab-FCAA00?style=flat-square&logo=gitlab&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" />
-  <img alt="Vsual Studio Code" src="https://img.shields.io/badge/-Vsual Studio Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Android Studio" src="https://img.shields.io/badge/-Android%20Studio-007ACC?style=flat-square&logo=android-studio&logoColor=white" />
     <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual%20Studio-007ACC?style=flat-square&logo=visual-studio&logoColor=white" />
     <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -61,16 +59,6 @@ My name is Mahammad Aafil and I am a Full Stack Developer. I'm living in London,
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-000020?style=flat-square&logo=nodejs&logoColor=white" />
 
 </p>
-
-
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/danvufs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danvufs&hide=shell&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/danvufs">
-  <img src="https://github-readme-stats.vercel.app/api?username=danvufs&show_icons=true&hide=stars,contribs&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Dan's GitHub Stats" />
-</a>
 
 
 ## Projects:
