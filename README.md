@@ -88,3 +88,6 @@ https://ui-project-theta.vercel.app/
 
 + FlavorHarbor (Dynamic Recipe App):
 https://flavor-harbor.vercel.app/
+
++ TypeRacer (Type Testing react App):
+https://typeracer-beta.vercel.app/
